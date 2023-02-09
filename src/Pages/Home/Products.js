@@ -48,7 +48,7 @@ const Products = () => {
     ]
 
     return (
-        <div>
+        <div id='shop'>
             <div
             data-aos="fade-up"
             data-aos-duration="3000" 

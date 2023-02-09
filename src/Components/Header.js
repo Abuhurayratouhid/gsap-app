@@ -18,13 +18,13 @@ const Header = () => {
                         <a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 border-transparent text-violet-600 border-violet-600">Home</a>
                     </li>
                     <li className="flex">
-                        <a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 border-transparent">Shop</a>
+                        <a rel="noopener noreferrer" href="#shop" className="flex items-center px-4 -mb-1 border-b-2 border-transparent">Shop</a>
                     </li>
                     <li className="flex">
-                        <a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 border-transparent">About</a>
+                        <a rel="noopener noreferrer" href="#blog" className="flex items-center px-4 -mb-1 border-b-2 border-transparent">Blog</a>
                     </li>
                     <li className="flex">
-                        <a rel="noopener noreferrer" href="#" className="flex items-center px-4 -mb-1 border-b-2 border-transparent">Contact</a>
+                        <a rel="noopener noreferrer" href="#contact" className="flex items-center px-4 -mb-1 border-b-2 border-transparent">Contact</a>
                     </li>
                 </ul>
                 <div className="items-center flex-shrink-0 hidden lg:flex">

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Contact = () => {
     return (
-        <div className="max-w-[1100px] mx-auto my-40">
+        <div id='contact' className="max-w-[1100px] mx-auto my-40">
             <div
             data-aos="fade-up"
             data-aos-duration="3000" 
